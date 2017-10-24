@@ -13,13 +13,12 @@ I am a second year math major interested in pursuing a career in the field of Da
 * Email: zmvallery@gmail.com
 * Facebook: https://www.facebook.com/zac.vallery
 ## Languages Known:
-Language | Level | Language Preference for project
-...|...|...|
-Java | intermediate | nah
-Python | intermediate | yee
-SQL | just a bit | maybe one day
-C++ | taking cs16 right now | would be down
-R | Just began | soon
+| Language | Level                 | Preference for project |
+|----------|-----------------------|------------------------|
+| Java     | intermediate          | nah                    |
+| Python   | intermediate          | yee                    |
+| R        | just started          | soon                   |
+| C++      | taking cs16 right now | possibly               |
 ### Languages/data insights I want to learn
 I want to learn how to use R and python for data analysis.
 ## Favotrite Songs
